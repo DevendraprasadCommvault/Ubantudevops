@@ -1,3 +1,7 @@
 Docker is a platform and set of tools which helps you to manage the containers.
+<<<<<<< HEAD
 Yes I understand we show donwload docker image for windows from github
+=======
+I need to add soem ineto crate a merge conflict situation. 
+>>>>>>> dda459f (Docker learning)
 
