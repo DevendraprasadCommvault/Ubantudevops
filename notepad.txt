@@ -1,1 +1,15 @@
-Hello Worl.. is the fist program i worte in BAsh. 
+Hello World.. is the fist program i worte in BAsh. 
+K8 and docker will be very fun to learn along with linux commands
+
+Echo - print the out put.
+grep - find patterens in the file.
+ls -l - long list of files.
+l -la - long list of files which also include hidden files.
+Mv - Move files 
+rm - Delte the file for working directiry.
+sudo - Change the user to su.
+Touch - Command to create a file.
+nano - file editor.
+vi - file editor. 
+dv - find the disk space.
+
